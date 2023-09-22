@@ -1,0 +1,31 @@
+@import url(./Landing\ Page\ Banner.css);
+@import url(./Landing\ Page\ Header.css);
+@import url(./Landing\ Page\ Posts.css);
+@import url(./Landing\ Page\ Body.css);
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+
+.read-more-button {
+    background-color: black;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+
+footer {
+    background-color: #cc5500;
+    color: black;
+    text-align: center;
+    padding: 20px 0;
+}

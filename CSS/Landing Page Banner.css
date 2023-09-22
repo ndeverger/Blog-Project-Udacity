@@ -1,0 +1,28 @@
+.banner {
+    text-align: center;
+}
+
+.banner-image {
+    max-width: 100%;
+}
+
+
+.hero {
+    background-color: #cc5500;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    
+
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+
+}
+
+.hero p {
+    font-size: 18px;
+}
